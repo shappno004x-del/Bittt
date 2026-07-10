@@ -1,0 +1,8 @@
+Flask==3.0.0
+gunicorn
+requests
+psutil==5.9.6
+py7zr==0.20.8
+pyTelegramBotAPI==4.14.1
+aiogram==3.12.0
+aiosqlite==0.20.0
